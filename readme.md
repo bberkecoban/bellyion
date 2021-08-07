@@ -1,3 +1,5 @@
+![alt text](https://i.hizliresim.com/2ujpqts.png)
+
 <h3> It's me, 👋 </h3>
 • 🎂 | 18 Age •  <br>
 • 🏳️ | Country • Turkey <br>
@@ -14,9 +16,11 @@ Self-improving moderation teams for freelancer and discord.
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-quare&labelColor=1DA1F2&logo=twitter&logoColor=white&link=link)](link) 
 [![Blogger Badge](https://img.shields.io/badge/-Discord-7289DA?style=flat-quare&labelColor=7289D&logo=Discord&logoColor=white&link=link)](link)
 
-
-![Github stats 2](https://github-readme-stats.vercel.app/api?username=bellyion&show_icons=true&theme=radical)
+ ![alt text](https://i.hizliresim.com/cx1fcr0.png)
+<img src="https://github-readme-stats.vercel.app/api?username=bellyion&&show_icons=true&title_color=fb2a6c&icon_color=fb2a6c&text_color=daf7dc&bg_color=151515">
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
