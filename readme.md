@@ -21,6 +21,8 @@ Self-improving moderation teams for freelancer and discord.
 
 <br>
 
+- [x] I admit I've been in this profile. 🔎
+
 
 
 
