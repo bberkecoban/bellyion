@@ -1,4 +1,4 @@
-<h3> It's me, </h3>
+<h3> It's me, 👋 </h3>
 • 🎂 | 18 Age •  <br>
 • 🏳️ | Country • Turkey <br>
 • 💻 | Skills • Full Stack Web Development, TypeScript, Lua (Around GLua API), Java, PHP, PSD, AE++ Designer <br>
