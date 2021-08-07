@@ -13,7 +13,7 @@ Self-improving moderation teams for freelancer and discord.
 <br>
 
 <br>[![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](link)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-quare&labelColor=1DA1F2&logo=twitter&logoColor=white&link=link)](link) 
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-quare&labelColor=1DA1F2&logo=twitter&logoColor=white&link=link)](https://twitter.com/bellyion) 
 [![Blogger Badge](https://img.shields.io/badge/-Discord-7289DA?style=flat-quare&labelColor=7289D&logo=Discord&logoColor=white&link=link)](link)
 
  ![alt text](https://i.hizliresim.com/cx1fcr0.png)
