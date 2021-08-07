@@ -19,10 +19,5 @@ Self-improving moderation teams for freelancer and discord.
  ![alt text](https://i.hizliresim.com/cx1fcr0.png)
 <img src="https://github-readme-stats.vercel.app/api?username=bellyion&&show_icons=true&title_color=fb2a6c&icon_color=fb2a6c&text_color=daf7dc&bg_color=151515">
 
-<br>
-
-- [x] I admit I've been in this profile. 🔎
-
-
 
 
