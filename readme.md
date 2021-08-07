@@ -1,7 +1,7 @@
 ![alt text](https://i.hizliresim.com/2ujpqts.png)
 
 <h3> It's me, 👋 </h3>
-• 🎂 | 18 Age •  <br>
+• 🎂 | 18 Age  <br>
 • 🏳️ | Country • Turkey <br>
 • 💻 | Skills • Full Stack Web Development, TypeScript, Lua (Around GLua API), Java, PHP, PSD, AE++ Designer <br>
 • 🎮 | Games • LoL, Minecraft, tbh just check my steam <br>
