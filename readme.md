@@ -14,8 +14,11 @@ Im bellyion, often read articles to evaluate my time at the computer
 - ❓ Now, he can't see anything different in this field, but there's gonna be a lot of seeds in the future, and we're gonna watch it grow together
 
 ## Social media
-[![Discord](https://img.shields.io/discord/661411850856038431?label=Discord%20Guild&style=for-the-badge&logo=discord&logoColor=ffffff)](girmedim)
-‎‎ [![Twitter Follow](https://img.shields.io/twitter/follow/bellyion?color=%FF307E&label=Twitter&style=for-the-badge&logo=twitter&logoColor=ffffff)](https://twitter.com/EdgyCoder)
+
+- <a href="https://www.instagram.com/bellyion.php/"><img src="https://img.shields.io/badge/instagram%20@bellyion-DD2476?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+- <a href=""><img src="https://img.shields.io/badge/discord%20@bellyion-DD2476?style=for-the-badge&logo=Discord&logoColor=white"/></a>
+- <a href="https://twitter.com/bellyion"><img src="https://img.shields.io/badge/twitter%20@bellyion-DD2476?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+- <a href=""><img height="30px" src="https://img.shields.io/badge/My%20Website:%20soon-DD2476?style=for-the-badge&logo=google%20chrome&logoColor=white"/></a>
 
 
 ## Current projects
