@@ -18,7 +18,7 @@ Im bellyion, often read articles to evaluate my time at the computer
 - <a href="https://www.instagram.com/bellyion.php/"><img src="https://img.shields.io/badge/instagram%20@bellyion-DD2476?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 - <a href=""><img src="https://img.shields.io/badge/discord%20459113059802415106-DD2476?style=for-the-badge&logo=Discord&logoColor=white"/></a>
 - <a href="https://twitter.com/bellyion"><img src="https://img.shields.io/badge/twitter%20@bellyion-DD2476?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-- <a href=""><img height="30px" src="https://img.shields.io/badge/My%20Website:%20soon-DD2476?style=for-the-badge&logo=google%20chrome&logoColor=white"/></a>
+- <a href=""><img height="30px" src="https://img.shields.io/badge/My%20https://bellyion.com:%20Website-DD2476?style=for-the-badge&logo=google%20chrome&logoColor=white"/></a>
 
 
 ## Current projects
