@@ -62,5 +62,5 @@ CSS                      1 repos             █░░░░░░░░░░�
  ![alt text](https://i.hizliresim.com/cx1fcr0.png)
 <img src="https://github-readme-stats.vercel.app/api?username=bellyion&&show_icons=true&title_color=fb2a6c&icon_color=fb2a6c&text_color=daf7dc&bg_color=151515">
 
-<b> Contact</b>  <b> info@bellyion.com </b>
+<b> 📞 Contact</b>  <b> info@bellyion.com </b>
 
