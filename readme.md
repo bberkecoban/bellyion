@@ -5,7 +5,7 @@
  
 ---
 ## Hi there
-Im bellyion, often read articles to evaluate my time at the computer
+Im Berke, often read articles to evaluate my time at the computer
 - 👨‍💻 I'm not saying I can code very well, I'm just wasting my time getting this platform to know for myself 
 - 🌱 i started from scratch in early 2016 with html and css, and then i started with an advanced site then i met discord and led myself to different things.
 - 🎮 Every now and then, I play computer games like counter strike, which is a valorant, and I'm not very good at valortant.
