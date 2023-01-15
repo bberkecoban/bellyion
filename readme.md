@@ -18,7 +18,7 @@ Im Berke, often read articles to evaluate my time at the computer
 - <a href="https://www.instagram.com/bberkecoban/"><img src="https://img.shields.io/badge/instagram%20@bberkecoban-DD2476?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 - <a href=""><img src="https://img.shields.io/badge/discord%20459113059802415106-DD2476?style=for-the-badge&logo=Discord&logoColor=white"/></a>
 - <a href="https://twitter.com/bberkecoban"><img src="https://img.shields.io/badge/twitter%20@bberkecoban-DD2476?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-- <a href="https://berkcoban.com"><img height="30px" src="https://img.shields.io/badge/My%20%20Website-DD2476?style=for-the-badge&logo=google%20chrome&logoColor=white"/></a>
+- <a href="https://berkecoban.com"><img height="30px" src="https://img.shields.io/badge/My%20%20Website-DD2476?style=for-the-badge&logo=google%20chrome&logoColor=white"/></a>
 
 
 ## Current projects
